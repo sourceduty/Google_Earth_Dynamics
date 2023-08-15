@@ -1,6 +1,6 @@
 ## Google_Earth_Dynamics
 
-🗺️ Track geographic changes in historic Google Earth property images.
+🗺️ Software concept for tracking geographic changes in historic Google Earth property images.
 
 ## FEATURES
 
